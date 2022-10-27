@@ -17,7 +17,7 @@ public class SecretCode {
     @Value("${jwt.refreshTokenExpireTime}")
     private Long refreshTokenExpireTime;
 
-    @Value("${client.url}")
-    private String clientUrl;
+    @Value("qaapdSgtsecMfGukTkoFntQjf7g%2Bpzn9xBcRiZPnpeZ%2BcZsKpAqfpFYl3IYwCyfL9C5UIDHEUS92UatDkujH7g%3D%3D")
+    private String parkingOpenApiEncodingKey;
 
 }

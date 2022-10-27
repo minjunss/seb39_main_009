@@ -17,6 +17,9 @@ public class Items {
     private String rdnmadr;
     private String lnmadr;
     private int prkcmprt;
+    private String enforceSe;
+    private String feedingSe;
+    private String operDay;
     private String weekdayOperOpenHhmm;
     private String weekdayOperColseHhmm;
     private String satOperOperOpenHhmm;

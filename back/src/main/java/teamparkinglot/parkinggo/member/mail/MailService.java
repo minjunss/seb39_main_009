@@ -37,7 +37,7 @@ public class MailService {
             mimeMessageHelper.setSubject("[파킹Go] 비밀번호 재설정 주소 안내");
             StringBuilder sb = new StringBuilder();
             sb.append("비밀번호 재설정을 위한 주소입니다. \n");
-            sb.append(secretCode.getClientUrl() + "/resetpwd/" + uuid + "\n");
+//            sb.append(secretCode.getClientUrl() + "/resetpwd/" + uuid + "\n");
             sb.append("상기 주소로 접속하시어 비밀번호 재설정을 해주시기 바랍니다.");
             sb.append("해당 주소는 약 10분간 유효한 주소 입니다.");
 

@@ -43,8 +43,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: ENC(h9ZJ1Po9veLmbsxpwEcRsYdnEqI7X9xkD7tAjA/1Cvc=)
-    password: ENC(9bujLpNxe97GTCXVWvnQ+2ESnn9cJnZWREUIPMTOou4=)
+    username: ENC(bCXvF4SExIRY/EwswPPzg3iyhmCi7GVjop53z63L7V8=) #gmail
+    password: ENC(DtWcHztGmUqIj1wbsyl3oqheURYn8LPwo/Ldjr+hhr4=) #앱비번
     properties:
       mail:
         smtp:
@@ -52,9 +52,9 @@ spring:
           starttls:
             enable: true
   datasource:
-    url: ENC(stRoGAMIskd+2bDQp+eyXdA2vqXqAC5T2XJs1ltUWHpDwMcbLPrMbWt9JnbEWwsa+WReFxJiG5mD0m9IuccoELioLnmuDPe8c2cJ0xk8RqXD3C7Oc/+4QRwauDZq5EPk)
-    username: ENC(KdWc5o6eL1Z9GvzKQ61bWA==)
-    password: ENC(K0eg5J1mTc326+S1PMcX6IbZ/ESpBqLclX8Y835tLsg=)
+    url: ENC(YjHmMAstBBjh5IEoL3tonUISMlR0lW7FG92uTJ6YfNFeWn2+4eXDCe+tOBlhHr807QJA+ngIy8H2D0ASYag2sNGNGMkxRYBszG0csHbGWMRIq3gBQA8cyA==)
+    username: ENC(aqvVyHSGiVDa9v1in4/hZA==)
+    password: ENC(etmzbCmyceTrh8ApEiRYp1JkZOM3/HTI)
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
